@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  person: one
+  item: one
+  value: 1.5
+
+two:
+  person: two
+  item: two
+  value: 1.5
